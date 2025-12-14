@@ -30,7 +30,28 @@ It includes:
 
 ## 📦 Installation (Termux / Linux)
 
-```bash
+```shell
+pkg update -y && pkg upgrade -y
+```
+ ```shell
+pkg install python git -y
+```
+ ```shell
 termux-setup-storage
-```bash
-pkg update && pkg upgrade -y
+```
+```shell 
+git clone https://github.com/akashdeepx/HostScanX.git
+```
+ ```shell 
+cd HostScanX
+```
+
+```shell
+pip install --upgrade pip
+```
+```shell
+pip install -r requirements.txt
+```
+ ```shell
+python3 HostScanX.py
+```
