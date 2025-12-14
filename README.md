@@ -1,7 +1,9 @@
 # ⚡ HostScanX
 
-> 🔒 Anti-Edit Protected | 🐞 BugZ Scanner | 🌐 CIDR Scanner | 🔥 V100 AI Subdomain Generator
-
+> 🔒 Anti-Edit Protected | 🐞 BugZ Scanner | 🌐 CIDR Scanner | 🔥 V Subdomain Generator
+> 
+CREATE BY : https://t.me/LOGIC_HACKER
+> TELEGRAM CHENNEL : https://t.me/blacknetworkk
 ---
 
 ## 🚀 About
@@ -53,5 +55,11 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
  ```shell
+chmod +x install.sh
+```
+```shell
+./install.sh
+```
+```shell
 python3 HostScanX.py
 ```
